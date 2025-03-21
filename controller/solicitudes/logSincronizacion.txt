@@ -1,0 +1,1922 @@
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:55:32-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07791829001226</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:55:33-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:55:34-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:55:35-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:55:37-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:55:58-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07791829001226</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:55:59-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:56:00-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:56:01-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:56:03-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:56:04-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:57:41-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:57:42-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:57:43-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:58:07-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:58:08-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:58:09-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:7884
+ OPERACION: R 
+ ENTRADA:2023-11-09 10:58:40-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795990002273</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001369724</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:10316
+ OPERACION: D 
+ ENTRADA:2024-04-06 11:19:18-	<arg0>9992025500157</arg0>
+            <arg1>Plottier2021</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07793081098495</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100375719</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:10758
+ OPERACION: R 
+ ENTRADA:2024-04-27 12:34:09-	<arg0>9992025500072</arg0>
+            <arg1>MEOPP4190</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795348000326</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100377534</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:10758
+ OPERACION: R 
+ ENTRADA:2024-04-27 12:34:16-	<arg0>9992025500072</arg0>
+            <arg1>MEOPP4190</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798365530524</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100377534</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11498
+ OPERACION: D 
+ ENTRADA:2024-07-02 17:06:57-	<arg0>9992025500072</arg0>
+            <arg1>MEOPP4190</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07792183489736</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001818511</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 09:45:49-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798088120620</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 10:57:37-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798180920296</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 10:59:35-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798180920296</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 12:37:34-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798180920296</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 12:54:49-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798180920296</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * ERRORES: HTTP Error: cURL ERROR: 28: Operation timed out after 30000 milliseconds with 0 bytes received<br>url: https://trazabilidad.pami.org.ar:9050/trazamed.WebService<br>content_type: <br>http_code: 100<br>header_size: 25<br>request_size: 221<br>filetime: -1<br>ssl_verify_result: 20<br>redirect_count: 0<br>total_time: 30<br>namelookup_time: 0.063<br>connect_time: 0.094<br>pretransfer_time: 0.157<br>size_upload: 1816<br>size_download: 0<br>speed_download: 0<br>speed_upload: 60<br>download_content_length: -1<br>upload_content_length: 1816<br>starttransfer_time: 0.203<br>redirect_time: 0<br>redirect_url: <br>primary_ip: 179.0.4.29<br>certinfo: Array<br>primary_port: 9050<br>local_ip: 172.26.0.150<br>local_port: 64406<br>  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 12:55:19-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798180920296</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * ERRORES: HTTP Error: cURL ERROR: 28: Operation timed out after 30000 milliseconds with 0 bytes received<br>url: https://trazabilidad.pami.org.ar:9050/trazamed.WebService<br>content_type: <br>http_code: 100<br>header_size: 25<br>request_size: 221<br>filetime: -1<br>ssl_verify_result: 20<br>redirect_count: 0<br>total_time: 30<br>namelookup_time: 0.063<br>connect_time: 0.094<br>pretransfer_time: 0.172<br>size_upload: 1816<br>size_download: 0<br>speed_download: 0<br>speed_upload: 60<br>download_content_length: -1<br>upload_content_length: 1816<br>starttransfer_time: 0.219<br>redirect_time: 0<br>redirect_url: <br>primary_ip: 179.0.4.29<br>certinfo: Array<br>primary_port: 9050<br>local_ip: 172.26.0.150<br>local_port: 64527<br>  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 13:03:22-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798180920296</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11723
+ OPERACION: D 
+ ENTRADA:2024-07-03 13:04:06-	<arg0>9992025500096</arg0>
+            <arg1>Meopp8309</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798180920296</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100381897</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11640
+ OPERACION: D 
+ ENTRADA:2024-07-04 17:23:22-	<arg0>9992025500072</arg0>
+            <arg1>MEOPP4190</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795348000326</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001833583</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11640
+ OPERACION: D 
+ ENTRADA:2024-07-04 17:23:33-	<arg0>9992025500072</arg0>
+            <arg1>MEOPP4190</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798365530524</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001833583</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11831
+ OPERACION: R 
+ ENTRADA:2024-07-10 09:10:01-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5></arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13></arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11528
+ OPERACION: D 
+ ENTRADA:2024-07-16 18:34:45-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798006871818</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001824705</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11759
+ OPERACION: D 
+ ENTRADA:2024-07-24 18:42:45-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990105</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802938022</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11759
+ OPERACION: D 
+ ENTRADA:2024-07-24 18:42:47-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990105</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802938022</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11759
+ OPERACION: D 
+ ENTRADA:2024-07-24 18:42:48-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990105</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802938022</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11759
+ OPERACION: D 
+ ENTRADA:2024-07-24 18:42:49-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990105</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802938022</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11759
+ OPERACION: D 
+ ENTRADA:2024-07-24 18:42:50-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990105</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802938022</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11759
+ OPERACION: D 
+ ENTRADA:2024-07-24 18:42:51-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07790375267568</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001847381</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:11759
+ OPERACION: D 
+ ENTRADA:2024-07-24 18:42:52-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07790375267568</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001847381</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12642
+ OPERACION: R 
+ ENTRADA:2024-08-19 08:52:08-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07790440512432</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006712</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12642
+ OPERACION: R 
+ ENTRADA:2024-08-19 08:52:09-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07790440512425</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001950743</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12625
+ OPERACION: R 
+ ENTRADA:2024-08-19 09:01:40-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990136</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802939676</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12625
+ OPERACION: R 
+ ENTRADA:2024-08-19 09:01:42-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990136</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802939676</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12625
+ OPERACION: R 
+ ENTRADA:2024-08-19 09:01:43-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798168990136</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003802939676</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12625
+ OPERACION: R 
+ ENTRADA:2024-08-19 09:01:45-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07790375267568</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001950722</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12625
+ OPERACION: R 
+ ENTRADA:2024-08-19 09:01:46-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07790375267568</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001950722</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12625
+ OPERACION: R 
+ ENTRADA:2024-08-19 09:01:48-	<arg0>9992025500102</arg0>
+            <arg1>Meopp2017</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07790375267568</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R008001950722</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12485
+ OPERACION: R 
+ ENTRADA:2024-09-02 11:27:59-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798084683440</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100386805</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:25:45-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:25:46-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:25:47-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157507</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:44:10-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:44:11-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:44:12-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157507</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:45:19-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:45:20-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:45:21-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157507</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:45:35-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:45:36-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157484</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:12942
+ OPERACION: R 
+ ENTRADA:2024-10-09 11:45:37-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07038319157507</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R0000100006930</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13763
+ OPERACION: D 
+ ENTRADA:2024-10-29 08:39:33-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795306473933</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003011917837</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13763
+ OPERACION: D 
+ ENTRADA:2024-10-29 08:39:33-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795306352832</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003011917837</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13763
+ OPERACION: D 
+ ENTRADA:2024-10-29 08:40:27-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795306473933</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003011917837</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13763
+ OPERACION: D 
+ ENTRADA:2024-10-29 08:40:28-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07795306352832</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003011917837</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13629
+ OPERACION: D 
+ ENTRADA:2024-10-29 08:42:20-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798358810282</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003011856748</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13629
+ OPERACION: D 
+ ENTRADA:2024-10-29 08:42:20-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798358810282</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003011856748</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13629
+ OPERACION: D 
+ ENTRADA:2024-10-29 08:42:20-	<arg0>9992025500126</arg0>
+            <arg1>PLAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>07798358810282</arg5> <!--gtin-->
+            <arg6>111</arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R003011856748</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>5</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+ ID SOLICITUD:13826
+ OPERACION: R 
+ ENTRADA:2024-11-04 10:39:35-	<arg0>9992025500010</arg0>
+            <arg1>TRAZA2018</arg1>
+            <arg2></arg2> <!--id transaccion global-->
+            <arg3></arg3> <!--gln origen-->
+            <arg4></arg4> <!--gln destino-->
+            <arg5>08054083021935</arg5> <!--gtin-->
+            <arg6></arg6> <!--ID Evento -->
+            <arg7></arg7> <!--Fecha Operación Desde-->
+            <arg8></arg8> <!--Fecha Operación Hasta-->
+            <arg9></arg9> <!--Fecha Transacción Desde-->
+            <arg10></arg10> <!--Fecha Transacción Hasta-->
+            <arg11></arg11> <!--Fecha Vencimiento Desde-->
+            <arg12></arg12> <!--Fecha Vencimiento Hasta-->
+            <arg13>R000100148783</arg13> <!--Nro. Remito -->
+            <arg14></arg14> <!--Nro. Factura -->
+            <arg15>3</arg15> <!--ID estado -->
+            <arg16></arg16> <!-- Número de página -->
+            <arg17></arg17> <!-- ID Programa --> 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+* * * * * * * SIN RESULTADOS RECEPCION * * * * * * * *  
+

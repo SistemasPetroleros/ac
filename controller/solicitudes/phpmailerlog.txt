@@ -1,0 +1,5186 @@
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Wed, 19 Mar 2025 10:30:01 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano.zuniga@ospepri.org.ar>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Wed, 19 Mar 2025 10:30:04 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <InGu8PzHlzioG864KH49ddoTeHqdCyqQY44DlpZbTN4@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_InGu8PzHlzioG864KH49ddoTeHqdCyqQY44DlpZbTN4"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_InGu8PzHlzioG864KH49ddoTeHqdCyqQY44DlpZbTN4
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_InGu8PzHlzioG864KH49ddoTeHqdCyqQY44DlpZbTN4
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=T5GDyCI-uH8hyklnDwY0ozBNRmdsZ05BeENlcUdmK3grY1hmQ2c9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_InGu8PzHlzioG864KH49ddoTeHqdCyqQY44DlpZbTN4--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tutUi-00000000Mof-2pD2
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Wed, 19 Mar 2025 10:39:57 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano.zuniga@ospepri.org.ar>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Wed, 19 Mar 2025 10:40:00 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <GDw091Cdo0SLUXAdPgCKPbePJbKO3jwBcWWVhtLk@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_GDw091Cdo0SLUXAdPgCKPbePJbKO3jwBcWWVhtLk"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_GDw091Cdo0SLUXAdPgCKPbePJbKO3jwBcWWVhtLk
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_GDw091Cdo0SLUXAdPgCKPbePJbKO3jwBcWWVhtLk
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=z7oHV3or0JcUfmtwiCB_pG5ZK0d6NkhDcHQ1K2JRbEkxTWNwaUE9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_GDw091Cdo0SLUXAdPgCKPbePJbKO3jwBcWWVhtLk--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tuteL-00000000P5V-03zX
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Wed, 19 Mar 2025 10:56:51 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano_zuniga_9@hotmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Wed, 19 Mar 2025 10:56:54 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <GabA5BSVgYHJI4SPSBjvNjo3k1LfsFpalKrVIOZeNE@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_GabA5BSVgYHJI4SPSBjvNjo3k1LfsFpalKrVIOZeNE"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_GabA5BSVgYHJI4SPSBjvNjo3k1LfsFpalKrVIOZeNE
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_GabA5BSVgYHJI4SPSBjvNjo3k1LfsFpalKrVIOZeNE
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=ghVtSKOESjI-AejjVs2tfEx1aFNrczNwenZUbVVTK3lPczNGYlE9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_GabA5BSVgYHJI4SPSBjvNjo3k1LfsFpalKrVIOZeNE--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tutug-00000000SBr-3tI7
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Wed, 19 Mar 2025 11:01:20 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano_zuniga_9@hotmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Wed, 19 Mar 2025 11:01:24 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <OmgfLWOIy1NEnUkhuZdnvoBFax8VufLbnk4yLBaD0@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_OmgfLWOIy1NEnUkhuZdnvoBFax8VufLbnk4yLBaD0"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_OmgfLWOIy1NEnUkhuZdnvoBFax8VufLbnk4yLBaD0
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_OmgfLWOIy1NEnUkhuZdnvoBFax8VufLbnk4yLBaD0
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=YC9CtE2DI-HbwqQbKLKieU5ITS9oMk9HQUhqcHpDZ0NhMUsySkE9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_OmgfLWOIy1NEnUkhuZdnvoBFax8VufLbnk4yLBaD0--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tutz2-00000000T5D-1gyq
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Wed, 19 Mar 2025 11:07:07 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano.zuniga@ospepri.org.ar>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Wed, 19 Mar 2025 11:07:10 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <bdRdS6tRFx8ud56VQ67kUyqoRrcoWfpBDxPjUNsW6k@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_bdRdS6tRFx8ud56VQ67kUyqoRrcoWfpBDxPjUNsW6k"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_bdRdS6tRFx8ud56VQ67kUyqoRrcoWfpBDxPjUNsW6k
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_bdRdS6tRFx8ud56VQ67kUyqoRrcoWfpBDxPjUNsW6k
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_bdRdS6tRFx8ud56VQ67kUyqoRrcoWfpBDxPjUNsW6k--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tuu4d-00000000U6Z-0Rk4
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Wed, 19 Mar 2025 14:25:00 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Wed, 19 Mar 2025 14:25:03 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <WGJ5hTkC8YzUGHcc8SQW5qbuhdvfdgetdfJSKw1xgk@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_WGJ5hTkC8YzUGHcc8SQW5qbuhdvfdgetdfJSKw1xgk"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_WGJ5hTkC8YzUGHcc8SQW5qbuhdvfdgetdfJSKw1xgk
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_WGJ5hTkC8YzUGHcc8SQW5qbuhdvfdgetdfJSKw1xgk
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZU?IGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE ORDEN:</u>5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_WGJ5hTkC8YzUGHcc8SQW5qbuhdvfdgetdfJSKw1xgk--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tuxA7-0000000122c-2Xf4
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Wed, 19 Mar 2025 14:30:36 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Wed, 19 Mar 2025 14:30:39 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <hQbQnz3NfsjXqz3SQuEwjsMoDZATW4JLnOXFD0gHeI@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_hQbQnz3NfsjXqz3SQuEwjsMoDZATW4JLnOXFD0gHeI"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_hQbQnz3NfsjXqz3SQuEwjsMoDZATW4JLnOXFD0gHeI
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_hQbQnz3NfsjXqz3SQuEwjsMoDZATW4JLnOXFD0gHeI
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE ORDEN:</u>5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_hQbQnz3NfsjXqz3SQuEwjsMoDZATW4JLnOXFD0gHeI--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tuxFX-000000012y8-1mzx
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 09:24:58 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano.zuniga@ospepri.org.ar>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 09:25:01 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <nTyS2tvpU8aqLFzMhQwXkMMBXx74NksNVVYwPYMTyE@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_nTyS2tvpU8aqLFzMhQwXkMMBXx74NksNVVYwPYMTyE"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_nTyS2tvpU8aqLFzMhQwXkMMBXx74NksNVVYwPYMTyE
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_nTyS2tvpU8aqLFzMhQwXkMMBXx74NksNVVYwPYMTyE
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=lcbG_RpPhbx1vIJ-yA2tO1Y4T0tYY1NmMWlWWVR6MGZ5WTN5ZHc9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_nTyS2tvpU8aqLFzMhQwXkMMBXx74NksNVVYwPYMTyE--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvExK-00000003drF-3vyH
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 10:01:26 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano.zuniga@ospepri.org.ar>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 10:01:29 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <D1zpLlICnx5DR5kx70QgGwXxyBW4eBXG5W8dW4fPJEc@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_D1zpLlICnx5DR5kx70QgGwXxyBW4eBXG5W8dW4fPJEc"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_D1zpLlICnx5DR5kx70QgGwXxyBW4eBXG5W8dW4fPJEc
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_D1zpLlICnx5DR5kx70QgGwXxyBW4eBXG5W8dW4fPJEc
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=h8QIre6eXQyQ-RKVEN70wi9jTjlmLzB2ekhtRG4wZlE2ekgrbVE9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_D1zpLlICnx5DR5kx70QgGwXxyBW4eBXG5W8dW4fPJEc--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvFWc-00000003kFr-0Qi0
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 10:11:22 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano.zuniga@ospepri.org.ar>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 10:11:26 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <AMPxQuAU13SMxNss9oxwoIWeyBzqUdhjvxn8yPEDo@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_AMPxQuAU13SMxNss9oxwoIWeyBzqUdhjvxn8yPEDo"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_AMPxQuAU13SMxNss9oxwoIWeyBzqUdhjvxn8yPEDo
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_AMPxQuAU13SMxNss9oxwoIWeyBzqUdhjvxn8yPEDo
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=CPYWklSzsfwQ3Tie6ucZQzYxUVdjNDczVHJxazMwRkF1cTEyV0E9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_AMPxQuAU13SMxNss9oxwoIWeyBzqUdhjvxn8yPEDo--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvFgF-00000003m1z-04zr
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 10:14:26 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: RCPT TO:<luciano.zuniga@ospepri.org.ar>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 10:14:30 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: =?UTF-8?Q?Pedido_de_Cotizaci=C3=B3n_#_5204?=
+
+CLIENT -> SERVER: Message-ID: <ts1qNQ1md1aJEfusHo6t9B7g3kb5Nkvx8kTauABM@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_ts1qNQ1md1aJEfusHo6t9B7g3kb5Nkvx8kTauABM"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_ts1qNQ1md1aJEfusHo6t9B7g3kb5Nkvx8kTauABM
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_ts1qNQ1md1aJEfusHo6t9B7g3kb5Nkvx8kTauABM
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER: <head>
+
+CLIENT -> SERVER:  <title>HTML email</title>
+
+CLIENT -> SERVER: </head>
+
+CLIENT -> SERVER:  <body>
+
+CLIENT -> SERVER:       <p>Estimados/as, enviamos el siguiente pedido de cotizaci&oacute;n, a continuaci&oacute;n el detalle de los productos solicitados:</p>
+
+CLIENT -> SERVER:       <table border="1">
+
+CLIENT -> SERVER:         <thead>
+
+CLIENT -> SERVER:         <th>Cantidad</th>
+
+CLIENT -> SERVER:         <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:         <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:         <th>Observaciones</th>
+
+CLIENT -> SERVER:        </thead>
+
+CLIENT -> SERVER:        <tbody>
+
+CLIENT -> SERVER:        <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td><td></td></tr>
+
+CLIENT -> SERVER:        </tbody>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        </table>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:    Además, enviamos el link para descargar los archivos adjuntos (formato .zip) de la solicitud #5204: <br/>
+
+CLIENT -> SERVER:      <a href="http://200.5.226.210:22922/ac/getLinks.php?value=T0N7aPlJAJlrvnYhm-CEE1FUWUhGNFJicE5HMlNJTzhtOUxJOXc9PQ" >Link de Descarga</a>
+
+CLIENT -> SERVER:     <p> Muchas gracias. </p>
+
+CLIENT -> SERVER:     <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:    <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:     <br/>
+
+CLIENT -> SERVER:     <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:     </body>
+
+CLIENT -> SERVER: </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_ts1qNQ1md1aJEfusHo6t9B7g3kb5Nkvx8kTauABM--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvFjC-00000003mVw-499g
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 10:20:58 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 10:21:02 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <zkndZIL5ISV2BxerFAcudKbntegiWwGGc060LzV20@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_zkndZIL5ISV2BxerFAcudKbntegiWwGGc060LzV20"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_zkndZIL5ISV2BxerFAcudKbntegiWwGGc060LzV20
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_zkndZIL5ISV2BxerFAcudKbntegiWwGGc060LzV20
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_zkndZIL5ISV2BxerFAcudKbntegiWwGGc060LzV20--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvFpW-00000003nlv-12CW
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 10:50:49 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 10:50:53 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <qhL0Htc48Myx1FxTP7ETj01z6bvwCqYfANp1XSsjsQ@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_qhL0Htc48Myx1FxTP7ETj01z6bvwCqYfANp1XSsjsQ"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_qhL0Htc48Myx1FxTP7ETj01z6bvwCqYfANp1XSsjsQ
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_qhL0Htc48Myx1FxTP7ETj01z6bvwCqYfANp1XSsjsQ
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_qhL0Htc48Myx1FxTP7ETj01z6bvwCqYfANp1XSsjsQ--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvGIP-00000003sj2-1lRg
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 10:53:19 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 10:53:22 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <PUyNM3B7bBJbALRArc12OEe1lQCb6OMw2ltSR7YjDo@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_PUyNM3B7bBJbALRArc12OEe1lQCb6OMw2ltSR7YjDo"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_PUyNM3B7bBJbALRArc12OEe1lQCb6OMw2ltSR7YjDo
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_PUyNM3B7bBJbALRArc12OEe1lQCb6OMw2ltSR7YjDo
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_PUyNM3B7bBJbALRArc12OEe1lQCb6OMw2ltSR7YjDo--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvGKp-00000003t8c-0p6R
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:14:10 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:14:13 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <KBEBI7MDiydgFh9Oa9w3DBMtfdjK1siE5WmQ29iJ7cQ@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_KBEBI7MDiydgFh9Oa9w3DBMtfdjK1siE5WmQ29iJ7cQ"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_KBEBI7MDiydgFh9Oa9w3DBMtfdjK1siE5WmQ29iJ7cQ
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_KBEBI7MDiydgFh9Oa9w3DBMtfdjK1siE5WmQ29iJ7cQ
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_KBEBI7MDiydgFh9Oa9w3DBMtfdjK1siE5WmQ29iJ7cQ--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvGf0-00000003wlo-0Lvf
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:17:02 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:17:06 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <p23csQAWa047h7KaJH4tAiyGVvu0oMt2J6G6589Ndk@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_p23csQAWa047h7KaJH4tAiyGVvu0oMt2J6G6589Ndk"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_p23csQAWa047h7KaJH4tAiyGVvu0oMt2J6G6589Ndk
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_p23csQAWa047h7KaJH4tAiyGVvu0oMt2J6G6589Ndk
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_p23csQAWa047h7KaJH4tAiyGVvu0oMt2J6G6589Ndk--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvGhm-00000003xHB-3uW9
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:19:04 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:19:08 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <NpWdMCzppMeXQFSglCXgKxIudJW5O4VV1o4OK8jWQ@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_NpWdMCzppMeXQFSglCXgKxIudJW5O4VV1o4OK8jWQ"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_NpWdMCzppMeXQFSglCXgKxIudJW5O4VV1o4OK8jWQ
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_NpWdMCzppMeXQFSglCXgKxIudJW5O4VV1o4OK8jWQ
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_NpWdMCzppMeXQFSglCXgKxIudJW5O4VV1o4OK8jWQ--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvGjl-00000003xcH-1y3u
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:25:11 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:25:15 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <q7b0EI9suCLqERez4dEjWhEnGFpmMfEcD4TeZjQ9FS4@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_q7b0EI9suCLqERez4dEjWhEnGFpmMfEcD4TeZjQ9FS4"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_q7b0EI9suCLqERez4dEjWhEnGFpmMfEcD4TeZjQ9FS4
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_q7b0EI9suCLqERez4dEjWhEnGFpmMfEcD4TeZjQ9FS4
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_q7b0EI9suCLqERez4dEjWhEnGFpmMfEcD4TeZjQ9FS4--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvGpf-00000003yjO-2lGE
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:34:08 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:34:12 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <rXmtulBMZ8AwxrSgSQec4DmXqj5e5eVHA4vVWVKBsU@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_rXmtulBMZ8AwxrSgSQec4DmXqj5e5eVHA4vVWVKBsU"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_rXmtulBMZ8AwxrSgSQec4DmXqj5e5eVHA4vVWVKBsU
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_rXmtulBMZ8AwxrSgSQec4DmXqj5e5eVHA4vVWVKBsU
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_rXmtulBMZ8AwxrSgSQec4DmXqj5e5eVHA4vVWVKBsU--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvGyK-000000040Nz-2gdX
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:43:10 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:43:14 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <L0DegHBiHAYhLqGUSHRmtpcO9iOw90UA2K4LOxKL5WQ@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_L0DegHBiHAYhLqGUSHRmtpcO9iOw90UA2K4LOxKL5WQ"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_L0DegHBiHAYhLqGUSHRmtpcO9iOw90UA2K4LOxKL5WQ
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_L0DegHBiHAYhLqGUSHRmtpcO9iOw90UA2K4LOxKL5WQ
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_L0DegHBiHAYhLqGUSHRmtpcO9iOw90UA2K4LOxKL5WQ--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvH74-000000041yh-2ubp
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:46:20 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:46:24 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <kA5immQfda1NQw2r4q9ztcxIICFi1qX4kQJcyVdWe4@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_kA5immQfda1NQw2r4q9ztcxIICFi1qX4kQJcyVdWe4"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_kA5immQfda1NQw2r4q9ztcxIICFi1qX4kQJcyVdWe4
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_kA5immQfda1NQw2r4q9ztcxIICFi1qX4kQJcyVdWe4
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_kA5immQfda1NQw2r4q9ztcxIICFi1qX4kQJcyVdWe4--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvHA8-000000042X0-38fZ
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 11:59:54 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 11:59:58 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <QajOi6H8h0zROAbPI0gsf6lMWRPICM7Eu6o5h7ofk@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_QajOi6H8h0zROAbPI0gsf6lMWRPICM7Eu6o5h7ofk"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_QajOi6H8h0zROAbPI0gsf6lMWRPICM7Eu6o5h7ofk
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_QajOi6H8h0zROAbPI0gsf6lMWRPICM7Eu6o5h7ofk
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_QajOi6H8h0zROAbPI0gsf6lMWRPICM7Eu6o5h7ofk--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvHNG-000000044dC-2UKT
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 12:36:01 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 12:36:05 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <dQoixTc787TsFH54L9Pe78tFgl29iM5UjeAgnUrEs8@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_dQoixTc787TsFH54L9Pe78tFgl29iM5UjeAgnUrEs8"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_dQoixTc787TsFH54L9Pe78tFgl29iM5UjeAgnUrEs8
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_dQoixTc787TsFH54L9Pe78tFgl29iM5UjeAgnUrEs8
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_dQoixTc787TsFH54L9Pe78tFgl29iM5UjeAgnUrEs8--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvHwD-00000004BB9-3Ckn
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 12:45:11 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 12:45:15 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <1v11wCeWm9OFENCk2m6IHVht6ze025OQ4jcIgA9FXU@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_1v11wCeWm9OFENCk2m6IHVht6ze025OQ4jcIgA9FXU"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_1v11wCeWm9OFENCk2m6IHVht6ze025OQ4jcIgA9FXU
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_1v11wCeWm9OFENCk2m6IHVht6ze025OQ4jcIgA9FXU
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_1v11wCeWm9OFENCk2m6IHVht6ze025OQ4jcIgA9FXU--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvI55-00000004Cjh-2PEH
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 12:49:52 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 12:49:56 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <7XMYZDn5eUadGz6Ewq7kYVIGH9ydyEul8Cj8C68wIU@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_7XMYZDn5eUadGz6Ewq7kYVIGH9ydyEul8Cj8C68wIU"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_7XMYZDn5eUadGz6Ewq7kYVIGH9ydyEul8Cj8C68wIU
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_7XMYZDn5eUadGz6Ewq7kYVIGH9ydyEul8Cj8C68wIU
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_7XMYZDn5eUadGz6Ewq7kYVIGH9ydyEul8Cj8C68wIU--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvI9c-00000004DSP-181p
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 12:52:14 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 12:52:18 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <KCq1O3Ah8kpQalM7dhC4xul1lV2ahVHaiHjJICq8@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_KCq1O3Ah8kpQalM7dhC4xul1lV2ahVHaiHjJICq8"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_KCq1O3Ah8kpQalM7dhC4xul1lV2ahVHaiHjJICq8
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_KCq1O3Ah8kpQalM7dhC4xul1lV2ahVHaiHjJICq8
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_KCq1O3Ah8kpQalM7dhC4xul1lV2ahVHaiHjJICq8--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvIBu-00000004Dtn-3X58
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 14:07:39 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 14:07:42 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <fSGvpkgzQBc83MZsvnQ0LjCdKXs3MknpWSf2TR5ifog@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_fSGvpkgzQBc83MZsvnQ0LjCdKXs3MknpWSf2TR5ifog"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_fSGvpkgzQBc83MZsvnQ0LjCdKXs3MknpWSf2TR5ifog
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_fSGvpkgzQBc83MZsvnQ0LjCdKXs3MknpWSf2TR5ifog
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_fSGvpkgzQBc83MZsvnQ0LjCdKXs3MknpWSf2TR5ifog--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvJMt-00000004QdF-0CPV
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+
+SERVER -> CLIENT: 220-host2.altovalley.com ESMTP Exim 4.98.1 #2 Thu, 20 Mar 2025 14:10:56 -0300 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-host2.altovalley.com Hello mail.ospepri.org.ar [209.13.176.122]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250 HELP
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: <credentials hidden>
+SERVER -> CLIENT: 235 Authentication succeeded
+
+CLIENT -> SERVER: MAIL FROM:<altacomplejidad@sindicatopetroleros.org>
+
+SERVER -> CLIENT: 250 OK
+
+CLIENT -> SERVER: RCPT TO:<zuniga.luciano@gmail.com>
+
+SERVER -> CLIENT: 250 Accepted
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Enter message, ending with "." on a line by itself
+
+CLIENT -> SERVER: Date: Thu, 20 Mar 2025 14:11:00 -0300
+
+CLIENT -> SERVER: To: undisclosed-recipients:;
+
+CLIENT -> SERVER: From: Alto Costo - OSPEPRI <altacomplejidad@sindicatopetroleros.org>
+
+CLIENT -> SERVER: Subject: Solicitud de Medicamentos #5204 en Farmacia
+
+CLIENT -> SERVER: Message-ID: <5oZGADJBDBYjw1ZQUwugxtU3aT2i7tKjhUIOrywk@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1_5oZGADJBDBYjw1ZQUwugxtU3aT2i7tKjhUIOrywk"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: This is a multi-part message in MIME format.
+
+CLIENT -> SERVER: --b1_5oZGADJBDBYjw1ZQUwugxtU3aT2i7tKjhUIOrywk
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=us-ascii
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: ERROR: Debe utilizar un gestor de correo que permita visualizar HTML
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_5oZGADJBDBYjw1ZQUwugxtU3aT2i7tKjhUIOrywk
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <html>
+
+CLIENT -> SERVER:     <head>
+
+CLIENT -> SERVER:     <title>HTML email</title>
+
+CLIENT -> SERVER:     </head>
+
+CLIENT -> SERVER:     <body>
+
+CLIENT -> SERVER:         <p>Estimado/a LUCIANO EUGENIO ZUÑIGA, le informamos que los medicamentos solicitados ya se encuentran disponibles en la farmacia abajo detallada.
+
+CLIENT -> SERVER:         Recuerde llevar para su retiro el DNI, la credencial de la obra social y el original de la prescripción médica.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <p><b><u>NRO. DE SOLICITUD</u>: 5204</b></p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LISTADO PRODUCTOS SOLICITADOS</u></b>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <table border="1">
+
+CLIENT -> SERVER:             <thead>
+
+CLIENT -> SERVER:             <th>Cantidad</th>
+
+CLIENT -> SERVER:             <th>Producto/Monodroga</th>
+
+CLIENT -> SERVER:             <th>Presentaci&oacute;n</th>
+
+CLIENT -> SERVER:             
+
+CLIENT -> SERVER:         </thead>
+
+CLIENT -> SERVER:         <tbody>
+
+CLIENT -> SERVER:         <tr><td>1</td><td>ADCETRIS</td><td>50 mg vial x 1</td></tr>
+
+CLIENT -> SERVER:         </tbody>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         </table>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         <b><u>LUGAR DE RETIRO</u></b>
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:        
+
+CLIENT -> SERVER:            <p><b>Farmacia: </b>FARMACIA MEOPP NQN CENTRO<br>
+
+CLIENT -> SERVER:            <p><b>Direcci&oacute;n: </b>Santa Cruz 275<br>
+
+CLIENT -> SERVER:            <p><b>Tel&eacute;fono: </b>0299 448-6574<br>
+
+CLIENT -> SERVER:            <p><b>Localidad/Provincia: </b>Neuquén / Neuquén</p>
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         
+
+CLIENT -> SERVER:         <p> Saludos cordiales! </p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <p> <b>Sector Alto Costo</b> <br/>
+
+CLIENT -> SERVER:     <b>Obra Social de Petroleros Privados (O.S.Pe.Pri.)</b></p>
+
+CLIENT -> SERVER:         <br/>
+
+CLIENT -> SERVER:         <hr>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER:         </body>
+
+CLIENT -> SERVER:     </html>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1_5oZGADJBDBYjw1ZQUwugxtU3aT2i7tKjhUIOrywk--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 OK id=1tvJQ4-00000004RCn-27AR
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 host2.altovalley.com closing connection
+

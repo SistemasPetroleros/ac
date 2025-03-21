@@ -1,0 +1,36 @@
+<?php
+include_once '../config.php';
+include_once '../../model/solicitudes.php';
+include_once '../../model/personas.php';
+include_once '../../model/puntos_dispensa.php';
+include_once '../../model/solicitudes_estados.php';
+include_once '../funciones.php';
+
+
+$idSolicitud = isset($_POST['idSolicitud']) ? $_POST['idSolicitud'] : -1;
+
+
+$sol_estado = new solicitudes_estados();
+
+$solicitud = new solicitudes($idSolicitud);
+$persona = new personas($solicitud->getid_personas());
+$estado = mysqli_fetch_assoc($solicitud->getestado());
+$idEstado = isset($estado['idEstado']) ? $estado['idEstado'] : 1;
+
+$activo = $persona->getestadoSIA();
+
+$puntosdispensa = new puntos_dispensa();
+$arrayPuntosDispensa = $puntosdispensa->SelectAll();
+
+$rand = rand(100, 999);
+include_once '../../view/solicitudes/iniciarSolicitud.php';
+?>
+<script>
+    setTimeout(function() {
+        $("ul.nav li").removeClass('disabledTab');
+        traerItems();
+        estadosSolicitud();
+        proveedoresSolicitud();
+        traerAdjuntos();
+                }, 300);
+</script>
